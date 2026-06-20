@@ -1,6 +1,4 @@
-<div align="center">
 
-<img src="https://verexa-omega.vercel.app/shiva.png" width="120" style="border-radius: 50%" />
 
 # Shiva Awasthi
 
