@@ -80,6 +80,12 @@ I'm a **Full-Stack & AI Engineer** specializing in building production-ready, AI
 
 ## 🏆 Certifications
 
+- 🏦 **JPMorgan Chase & Co. — Software Engineering Job Simulation** — *Forage* `May 2026`
+  > Apache Maven, Kafka event-driven pipelines, RESTful APIs with Spring Boot & JPA
+
+- ☁️ **Building a Secure Data Future: Exploring Cloud with Azure** — *Microsoft | US Embassy* `Apr 2026`
+  > Azure cloud architecture, compute & storage, identity management, cloud-native design patterns
+
 - 🔐 **Cybersecurity** — Node Quest, IIIT Delhi
 - 🤖 **ML & Deep Learning** — IIT Delhi · AMD · Unsloth AI
 - ⛓️ **Blockchain Fundamentals** — Microsoft · Avalanche Team
