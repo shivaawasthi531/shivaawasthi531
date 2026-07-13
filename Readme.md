@@ -53,24 +53,8 @@ I'm a **Full-Stack & AI Engineer** specializing in building production-ready, AI
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
----
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=shivaawasthi531&show_icons=true&theme=react&hide_border=true&count_private=true" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=shivaawasthi531&theme=react&hide_border=true" width="48%" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivaawasthi531&layout=compact&theme=react&hide_border=true" width="48%" />
-
-</div>
-
-### 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/shivaawasthi531/shivaawasthi531/output/github-contribution-grid-snake.svg" width="100%" />
-</div>
 
 ---
 
