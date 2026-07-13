@@ -60,6 +60,7 @@ I'm a **Full-Stack & AI Engineer** specializing in building production-ready, AI
 | Project | Stack | Live |
 |--------|-------|------|
 | 🛡️ **Verexa** — AI Fake Job Detector (98.83% acc, SMOTE pipeline, ATS scoring) | Next.js · FastAPI · scikit-learn · SerpAPI | [verexa-omega.vercel.app](https://verexa-omega.vercel.app) |
+| 🔮 **Astrovia** – AI Palm Reading + Vedic Kundli App (FAISS vector search, Cloudflare AI) | React Native · FastAPI · PostgreSQL | [GitHub](https://github.com/shivaawasthi531/Astrovia) |
 | 🏥 **Haritaki** — AI Healthcare Platform (NLP chatbot, medicine verification) | React · Node.js · MongoDB · NLP | [hari-taki-deploy.vercel.app](https://hari-taki-deploy.vercel.app/) |
 | 🔒 **Data Policy Agent** — GDPR/CCPA ML compliance engine | FastAPI · Python · scikit-learn · Railway | [Live](https://data-policy-agent-production-8d93.up.railway.app) |
 
