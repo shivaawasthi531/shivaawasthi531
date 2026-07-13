@@ -60,7 +60,7 @@ I'm a **Full-Stack & AI Engineer** specializing in building production-ready, AI
 <div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api?username=shivaawasthi531&show_icons=true&theme=react&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivaawasthi531&theme=react&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=shivaawasthi531&theme=react&hide_border=true" width="48%" />
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivaawasthi531&layout=compact&theme=react&hide_border=true" width="48%" />
 
