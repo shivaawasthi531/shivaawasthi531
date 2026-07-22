@@ -21,7 +21,6 @@ I'm a **Full-Stack & AI Engineer** specializing in building production-ready, AI
 
 - 🔭 Currently working on **Verexa** (Next.js 15 + FastAPI + scikit-learn)
 - 🌱 Contributing to open source via **GSSoC '26**
-- 🏢 Founder @ **Rudraksh Solutionz** — Web & digital solutions agency
 - 📍 Delhi NCR, India
 
 ---
