@@ -88,7 +88,7 @@ I'm a **Full-Stack & AI Engineer** specializing in building production-ready, AI
 
 - ☁️ **Building a Secure Data Future: Exploring Cloud with Azure** — *Microsoft | US Embassy* `Apr 2026`
   > Azure cloud architecture, compute & storage, identity management, cloud-native design patterns
-
+- **𝗔𝗜 𝗕𝘂𝗶𝗹𝗱𝗲𝗿'𝘀 𝗠𝗶𝘅𝗲𝗿** - Delhi , **Master union** deploying 2 agents ,neural network , 'june 2026'
 - 🔐 **Cybersecurity** — Node Quest, IIIT Delhi
 - 🤖 **ML & Deep Learning** — IIT Delhi · AMD · Unsloth AI
 - ⛓️ **Blockchain Fundamentals** — Microsoft · Avalanche Team
